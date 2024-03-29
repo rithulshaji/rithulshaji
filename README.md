@@ -37,7 +37,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rithulshaji&show_icons=true&theme=merko" align="left" height="160em">
-  <br>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulshaji&layout=compact&theme=vision-friendly-dark" align="right" height="160em">
   <br/>
   <br/>
