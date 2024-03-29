@@ -4,16 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=%F0%9F%91%8B+Hi+There!+;+I'm+Rithul+Shaji!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2196F3;">A passionate data explorer with a Master's in Business Administration specializing in Business Analytics 📊</h3>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2196F3;">A passionate data explorer with a Master's in Business Administration specializing in Business Analytics </h3>
 
 <br/>
 
 <div align="center">
-  🔭 I’m currently working on <strong>data exploration projects</strong><br>
-  💬 Ask me about <strong>SQL, Excel, Power BI, Python, R... or anything <a href="https://github.com/rithulshaji/rithulshaji/issues" style="color: #FF5722;">here</a></strong>
+   I am currently working on various data projects to further sharpen and expand my skillsets. Check out my profile for some interesting projects! Some of my projects include E-commerce sales data analysis, HR dashboard, and more.<br>
 </div>
 
-<div align="center"> 
+<div align="center">
   <a href="mailto:rithulshaji.nitc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -25,7 +24,7 @@
 
 <br/>
 
-<h2 align="center">:bar_chart: My Stats</h2>
+<hr> <h2 align="center">:bar_chart: My Stats</h2>
 
 <p align="center">
   <b>Profile Views</b><br>
@@ -40,27 +39,28 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rithulshaji&show_icons=true&theme=merko" align="left" height="160em">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulshaji&layout=compact&theme=vision-friendly-dark" align="right" height="160em">
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 </div>
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-
-<h2 align="center">⚒️ Skills </h2>
+<hr> <h2 align="center">⚒️ Skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r" style="margin: 10px;" />
-   <strong>SQL, Excel, Power BI<strong>
+  <img src="https://skillicons.dev/icons?i=python,r,pandas" style="margin: 10px;" />
+  <br/>
+  <br/>
+SQL, Excel, Power BI
+   
 </div>
 
 <br/>
-<br/>
 
-<h2 align="center">🐍 My Contributions </h2>
+<hr> <h2 align="center"> My Contributions </h2>
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rithulshaji/rithulshaji/main/github-contribution-grid-snake.svg" />
@@ -68,4 +68,6 @@
 
 <br/>
 
-<p align="center">Thank you!</p>
+<h1 align="center" style="font-family: 'Arial Black', Gadget, sans-serif; color: red;">
+  Thank You!
+</h1>
