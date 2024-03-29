@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-   I am currently working on various data projects to further sharpen and expand my skillsets. Check out my profile for some interesting projects! Some of my projects include E-commerce sales data analysis, HR dashboard, and more.<br>
+  I am currently working on various data projects to further sharpen and expand my skillsets. Check out my profile for some interesting projects! Some of my projects include E-commerce sales data analysis, HR dashboard, and more.<br>
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 
 <br/>
 
-<hr> 
+<hr> 
 
 <h2 align="center">:bar_chart: My Stats</h2>
 
@@ -37,22 +37,14 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=rithulshaji&theme=dark&background=000000" alt="GitHub Streak" />
 </p>
 
-<div>
- 
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=rithulshaji&show_icons=true&theme=merko" align="left" height="160em">
-  </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulshaji&layout=compact&theme=vision-friendly-dark" align="right" height="160em">
-  </p>
 </div>
-
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
-<hr> 
+<hr> 
 
 <h2 align="center">⚒️ Skills</h2>
 
@@ -60,13 +52,13 @@
   <img src="https://skillicons.dev/icons?i=python,r,pandas" style="margin: 10px;" />
   <br/>
   <br/>
-SQL, Excel, Power BI
-   
+  SQL, Excel, Power BI
+  
 </div>
 
 <br/>
 
-<hr> 
+<hr> 
 
 <h2 align="center"> My Contributions </h2>
 
@@ -77,5 +69,5 @@ SQL, Excel, Power BI
 <br/>
 
 <h1 align="center" style="font-family: 'Arial Black', Gadget, sans-serif; color: red;">
-  Thank You!
+   Thank You!
 </h1>
