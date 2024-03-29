@@ -24,7 +24,9 @@
 
 <br/>
 
-<hr> <h2 align="center">:bar_chart: My Stats</h2>
+<hr> 
+
+<h2 align="center">:bar_chart: My Stats</h2>
 
 <p align="center">
   <b>Profile Views</b><br>
@@ -38,18 +40,18 @@
 <div>
   <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rithulshaji&show_icons=true&theme=merko" align="left" height="160em">
-<p align="left">
+  </p>
+  <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulshaji&layout=compact&theme=vision-friendly-dark" align="right" height="160em">
-  <br/>
-  <br/>
-  <br/>
-  <br/>
+  </p>
 </div>
 
 <br/>
 <br/>
 
-<hr> <h2 align="center">⚒️ Skills</h2>
+<hr> 
+
+<h2 align="center">⚒️ Skills</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,r,pandas" style="margin: 10px;" />
@@ -61,7 +63,9 @@ SQL, Excel, Power BI
 
 <br/>
 
-<hr> <h2 align="center"> My Contributions </h2>
+<hr> 
+
+<h2 align="center"> My Contributions </h2>
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rithulshaji/rithulshaji/main/github-contribution-grid-snake.svg" />
