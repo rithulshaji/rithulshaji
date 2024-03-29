@@ -38,14 +38,17 @@
 </p>
 
 <div>
-  <p align="left">
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=rithulshaji&show_icons=true&theme=merko" align="left" height="160em">
   </p>
-  <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulshaji&layout=compact&theme=vision-friendly-dark" align="right" height="160em">
   </p>
 </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
