@@ -40,20 +40,44 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=rithulshaji&show_icons=true&theme=merko" align="left" height="160em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulshaji&layout=compact&theme=vision-friendly-dark" align="right" height="160em">
+<br/>
+<br/>
+<br/>
+<br/>
 </div>
 <br/>
 <br/>
-
+<br/>
 <hr> 
 
-<h2 align="center">⚒️ Skills</h2>
+<h2 align="center">   Languages & Tools </h2>
 
+<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,pandas" style="margin: 10px;" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
+  </a>
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
+  </a>
+  
+ <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40" title="Excel"/>
+</a>
+  
+<a href="https://www.r-project.org" target="_blank" rel="noreferrer">
+  <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40" title="R"/>
+</a>
+  
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" title="Pandas"/>
+  </a>
+  
+ <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="40" height="40" title="Power BI"/>
+</a>
   <br/>
-  <br/>
-  SQL, Excel, Power BI
-  
 </div>
 
 <br/>
