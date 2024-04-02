@@ -39,11 +39,8 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=rithulshaji&show_icons=true&theme=merko" align="left" height="160em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulshaji&layout=compact&theme=react" align="center" width="400" height="160em">
-<br/>
-<br/>
-<br/>
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulshaji&layout=compact&theme=react" align="center" width="500" height="160em">
+
 </div>
 <br/>
 <br/>
