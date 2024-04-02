@@ -39,7 +39,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=rithulshaji&show_icons=true&theme=merko" align="left" height="160em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulshaji&layout=compact&theme=vision-friendly-dark" align="right" height="160em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithulshaji&layout=compact&theme=react" align="center" width="400" height="160em">
 <br/>
 <br/>
 <br/>
@@ -83,14 +83,6 @@
 <br/>
 
 <hr> 
-
-<h2 align="center"> My Contributions </h2>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rithulshaji/rithulshaji/main/github-contribution-grid-snake.svg" />
-</div>
-
-<br/>
 
 <h1 align="center" style="font-family: 'Arial Black', Gadget, sans-serif; color: red;">
    Thank You!
